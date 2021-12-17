@@ -15,7 +15,7 @@
 - Html
 - Css
 - Javascript
-- Node Js (v17.2.0)
+- Node Js (v17.2.0 - required)
 - Express
 
 ## Installation
