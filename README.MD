@@ -1,4 +1,4 @@
-# 🧮 <span style="color:magenta">NodeJS Football Score App</span>
+# ⚽ <span style="color:magenta">NodeJS Football Score App</span>
 
 
 [![GitHub version](https://img.shields.io/badge/version-v1.0.0-blue.svg)](https://github.com/yilber/readme-boilerplate)
@@ -33,12 +33,11 @@ go to http://localhost:3013/
 ## How to use
 
 * Clone the repo.
-* Install packages.
-] You must have nodejs installed in your machine, min version 17.2.0.
+* Install packages. You must have nodejs installed in your machine, min version 17.2.0.
 
 ## 🐛 Bugs
 
-maybe...sure!
+maybe...sure, absolutely certain!
 
 ### Author
 
